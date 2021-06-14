@@ -12,8 +12,12 @@ Offline Functionality:
 When brought back online:
 
 * Offline entries added to tracker.
+
+
  ## Links 
  https://budget-tracker89.herokuapp.com/
+ https://github.com/fadhaa89/Budget-Tracker
+
 
  ## screenshot:
   ![Example Gif](./images/example21.gif)
