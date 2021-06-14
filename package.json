@@ -25,7 +25,12 @@
   },
   "dependencies": {
     "bootstrap": "^5.0.1",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "image-webpack-loader": "^7.0.1",
     "jquery": "^3.6.0",
+    "mongoose": "^5.12.13",
+    "morgan": "^1.10.0",
     "popper.js": "^1.16.1"
   }
 }
