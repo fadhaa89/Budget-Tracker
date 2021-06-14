@@ -14,3 +14,6 @@ When brought back online:
 * Offline entries added to tracker.
  ## Links 
  https://budget-tracker89.herokuapp.com/
+
+ ## screenshot:
+  ![Example Gif](./images/example21.gif)
